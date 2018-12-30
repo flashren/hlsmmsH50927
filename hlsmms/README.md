@@ -1,16 +1,16 @@
 # hlsmms
 
-## Project setup
+## 安装项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发环境的服务器运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目（项目完成后执行）
 ```
 npm run build
 ```
